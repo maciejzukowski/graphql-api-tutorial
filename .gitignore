@@ -1,0 +1,11 @@
+/venv
+__pycache__
+*.pyc
+*.swp
+*.env
+/.idea
+.pytest_cache
+frontend/.idea/*
+/frontend/.idea
+cities.dump
+places.csv
